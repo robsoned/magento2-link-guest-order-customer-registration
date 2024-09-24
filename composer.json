@@ -1,0 +1,19 @@
+{
+    "name": "robsoned/magento2-link-guest-order-customer-registration",
+    "type": "magento2-module",
+    "require": {
+        "aashan/module-link-guest-orders": "^1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Robsoned\\Magento2LinkGuestOrderCustomerRegistration\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "robsoned"
+        }
+    ],
+    "minimum-stability": "dev"
+}

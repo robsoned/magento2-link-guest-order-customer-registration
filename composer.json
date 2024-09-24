@@ -1,6 +1,7 @@
 {
     "name": "robsoned/magento2-link-guest-order-customer-registration",
     "type": "magento2-module",
+    "version": "1.0.0",
     "require": {
         "aashan/module-link-guest-orders": "^1.0"
     },
